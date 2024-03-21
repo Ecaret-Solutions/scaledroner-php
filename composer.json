@@ -1,5 +1,5 @@
 {
-	"name": "scaledrone/scaledrone",
+	"name": "rahulrajecaret/scaledroner",
 	"description": "Official ScaleDrone PHP pushing library",
 	"homepage": "https://www.scaledrone.com/",
 	"authors": [
@@ -27,7 +27,7 @@
 		"phpunit/phpunit": "^10.0"
 	},
 	"support": {
-		"issues": "https://github.com/ScaleDrone/scaledrone-php/issues"
+		"issues": "https://github.com/RahulrajEcaret/scaledroner-php/issues"
 	},
 	"license": "MIT"
 }
